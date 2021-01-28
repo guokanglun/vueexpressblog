@@ -1,0 +1,22 @@
+[
+  {
+    "id": "01",
+    "path": "http://localhost:5000/img/01.jpg"
+  },
+  {
+    "id": "02",
+    "path": "http://localhost:5000/img/02.jpg"
+  },
+  {
+    "id": "03",
+    "path": "http://localhost:5000/img/03.jpg"
+  },
+  {
+    "id": "04",
+    "path": "http://localhost:5000/img/04.jpg"
+  },
+  {
+    "id": "05",
+    "path": "http://localhost:5000/img/05.jpg"
+  }
+]
